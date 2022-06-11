@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecom-shop/static/css/main.8c0b13a5.css",
+    "main.js": "/ecom-shop/static/js/main.58c86f2e.js",
+    "static/media/shirt.PNG": "/ecom-shop/static/media/shirt.18365121ace2ec2bd074.PNG",
+    "static/media/sneakers.PNG": "/ecom-shop/static/media/sneakers.a84a20026290330ee790.PNG",
+    "index.html": "/ecom-shop/index.html",
+    "main.8c0b13a5.css.map": "/ecom-shop/static/css/main.8c0b13a5.css.map",
+    "main.58c86f2e.js.map": "/ecom-shop/static/js/main.58c86f2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c0b13a5.css",
+    "static/js/main.58c86f2e.js"
+  ]
+}
